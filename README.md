@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @milicaca
 - 👀 I’m interested in Frontend Development!
-- 🌱 I’m currently upgrading my knowledge on Frontend and Web design.
+- 🌱 I’m currently upgrading my knowledge on Frontend and Web Design.
 - 📫 How to reach me ... email => sukovic.milica@gmail.com
 
 <!---
